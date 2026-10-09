@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @awesomegeoff
-- 👀 I’m interested in python and javascript. 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Geoff. I'm currently a software engineering student and I know enough to know I don't know enough. I'm hoping to become a strong software engineer. 
+- 👀 I’m interested in python, java, zig, c and rust. 
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on open source projects
+- 📫 
 
 <!---
 awesomegeoff/awesomegeoff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
